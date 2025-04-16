@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://yourwebsitehere.com/">
+  <title>My Cool Blog</title>
+  <subtitle>This is the description for My Cool Blog!</subtitle>
+  <link href="https://yourwebsitehere.com/rss.xml" rel="self"/>
+  <updated>2023-11-15T00:00:00Z</updated>
+  <id>https://yourwebsitehere.com/</id>
+  <author>
+    <name>Dennis the Menace</name>
+  </author>
+  <entry>
+    <title>Hello, World!</title>
+    <link href="https://yourwebsitehere.com/posts/2023-11-15-Hello-World.html"/>
+    <updated>2023-11-15T00:00:00Z</updated>
+    <id>https://yourwebsitehere.com/posts/2023-11-15-Hello-World.html</id>
+    <content xml:lang="" type="html"><![CDATA[<img src="https://yourwebsitehere.com/images/cat.jpg">]]>This is the first post on my brand new cool blog!</content>
+  </entry>
+</feed>
